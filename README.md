@@ -56,4 +56,8 @@ Bu proje ilerleyen aşamalarda JavaScript ile etkileşimli hale getirilebilir ve
 
 
 
+https://github.com/user-attachments/assets/918cb4fb-5806-4bcb-8e79-19101224bf74
+
+
+
 
